@@ -1,0 +1,7 @@
+___pycache___/
+*.pyc
+venv/
+.env
+hotel.db
+invoices/*.pdf
+.DS_Store
