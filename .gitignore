@@ -1,7 +1,7 @@
-___pycache___/
+__pycache__/
 *.pyc
-venv/
-.env
-hotel.db
-invoices/*.pdf
+*.db
+*.sqlite3
+invoices/
 .DS_Store
+assets/.DS_Store
